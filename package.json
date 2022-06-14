@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles4",
+  "version": "1.0.0",
+  "description": "Primer proyecto Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefaraday/guia-hoteles4.git"
+  },
+  "author": "Jose Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josefaraday/guia-hoteles4/issues"
+  },
+  "homepage": "https://github.com/josefaraday/guia-hoteles4#readme"
+}
